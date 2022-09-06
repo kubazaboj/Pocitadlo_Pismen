@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495027401 source:p:\programy\c\pocitadlo_pismen\main.cpp
+	<iostream>
+	<string>
+
